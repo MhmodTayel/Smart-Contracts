@@ -7,7 +7,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "MhmodTayel",
   "license": "ISC",
   "dependencies": {
     "ganache-cli": "^6.0.3",
